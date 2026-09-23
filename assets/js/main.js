@@ -128,7 +128,7 @@
       const data = new FormData(form);
       const name = data.get('name') || 'Friend';
       const msg = data.get('message') || '';
-      const phone = '+91XXXXXXXXXX'; // replace with real number on deploy
+      const phone = '919767066941'; // replace with real number on deploy
       const url = `https://wa.me/${phone.replace(/[^0-9]/g,'')}?text=${encodeURIComponent(
         `Hi Vedya Rakhi, I'm ${name}. ${msg}`
       )}`;
