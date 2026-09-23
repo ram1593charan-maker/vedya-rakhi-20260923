@@ -4,31 +4,41 @@ Handmade rakhis by mother's hands. Premium collection for Bhai Dooj, Diwali, and
 
 ## Live Sites
 
+- **Vercel (primary):** https://vedya-deploy.vercel.app
 - **GitHub Pages:** https://ram1593charan-maker.github.io/vedya-rakhi-20260923/
-- **Vercel:** (import this repo at https://vercel.com/new)
-
-## What's Inside
-
-- `index.html` — Home (hero, festivals, story, featured products, testimonials, CTA)
-- `collection.html` — 94-product grid with style/price/occasion filters
-- `about.html` — Three stories from the kitchen table
-- `contact.html` — WhatsApp-first form + FAQ
-- `assets/css/style.css` — 30KB magazine-style design system
-- `assets/js/main.js` — Scroll reveals, parallax, 3D tilt
-- `assets/images/products_web/` — 94 optimized .webp product images (~5MB)
-- `assets/images/banners_web/` — 14 hero/banner .webp (~2MB)
-- `assets/manifest.json` — Product metadata (style, price, name, colors)
 
 ## Stack
 
 - Vanilla HTML + CSS + JS (no framework, no build step)
-- WebP images (244MB → 6MB total)
+- 94 unique rakhi images, optimized to WebP (~6MB total)
+- 14 hero/banner WebP images
 - Google Fonts: Playfair Display + Inter + Dancing Script
 - WhatsApp-first order flow (no cart, no checkout)
 
-## Performance
+## Contact (verified live)
 
-- 4 pages, ~110KB CSS+JS total
-- All images optimized 800-1600px wide @ 75% quality
-- Lazy-load below-the-fold
-- Honors `prefers-reduced-motion`
+- WhatsApp: +91 97670 66941 (Prashant, founder)
+- Email: vedya.rakhi@gmail.com
+- Instagram: @vedyarakhi
+
+## Repo Layout
+
+- `index.html` — Home
+- `collection.html` — 94-product grid with filters
+- `about.html` — Three stories from the kitchen table
+- `contact.html` — WhatsApp-first form + FAQ
+- `assets/css/style.css` — magazine-style design system
+- `assets/js/main.js` — scroll reveals, parallax, 3D tilt
+- `assets/images/products_web/` — 94 .webp products
+- `assets/images/banners_web/` — 14 .webp banners
+- `assets/manifest.json` — product metadata
+
+## Deploy
+
+Both Vercel + GitHub Pages deploy from the `main` branch.
+
+```
+git push origin main
+# Vercel auto-deploys via the linked project
+# GitHub Pages rebuilds from main on push (1-2 min CDN cache)
+```
