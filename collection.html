@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collection — Vedya Rakhi</title>
+  <meta name="description" content="Browse 90+ handmade rakhis. Traditional, pearl, evil eye, premium collections. Order directly on WhatsApp.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Dancing+Script:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="container nav__inner">
+      <a href="index.html" class="nav__logo">
+        <span class="nav__logo-mark">V</span> Vedya Rakhi
+      </a>
+      <div class="nav__links">
+        <a href="index.html" class="nav__link">Home</a>
+        <a href="collection.html" class="nav__link active">Collection</a>
+        <a href="about.html" class="nav__link">Our Story</a>
+        <a href="contact.html" class="nav__link">Contact</a>
+      </div>
+      <a href="https://wa.me/91XXXXXXXXXX" class="nav__cta" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448L.057 24z"/></svg>
+        Order on WhatsApp
+      </a>
+      <button class="nav__burger" aria-label="Menu"><span></span></button>
+    </div>
+  </nav>
+
+  <header class="page-hero">
+    <h1 class="page-hero__title">Our Collection</h1>
+    <p class="page-hero__sub">Handcrafted rakhis for every bond, every occasion. 90+ unique pieces — all made to order.</p>
+  </header>
+
+  <section class="section" style="padding-top:40px">
+    <div class="container">
+      <div class="shop">
+        <aside class="filter">
+          <div class="filter__group">
+            <div class="filter__title">Style</div>
+            <ul class="filter__list">
+              <li><button class="filter__btn active" data-filter="all">All <span class="filter__count" id="cnt-all">0</span></button></li>
+              <li><button class="filter__btn" data-filter="traditional">Traditional <span class="filter__count" id="cnt-traditional">0</span></button></li>
+              <li><button class="filter__btn" data-filter="pearl">Pearl <span class="filter__count" id="cnt-pearl">0</span></button></li>
+              <li><button class="filter__btn" data-filter="premium">Premium <span class="filter__count" id="cnt-premium">0</span></button></li>
+              <li><button class="filter__btn" data-filter="classic">Classic <span class="filter__count" id="cnt-classic">0</span></button></li>
+            </ul>
+          </div>
+          <div class="filter__group">
+            <div class="filter__title">Price</div>
+            <ul class="filter__list">
+              <li><button class="filter__btn" data-price="0-200">Under ₹200</button></li>
+              <li><button class="filter__btn" data-price="200-400">₹200 - ₹400</button></li>
+              <li><button class="filter__btn" data-price="400-800">₹400 - ₹800</button></li>
+              <li><button class="filter__btn" data-price="800-9999">₹800 +</button></li>
+            </ul>
+          </div>
+          <div class="filter__group">
+            <div class="filter__title">Occasion</div>
+            <ul class="filter__list">
+              <li><button>Bhai Dooj</button></li>
+              <li><button>Diwali</button></li>
+              <li><button>Karwa Chauth</button></li>
+              <li><button>Wedding</button></li>
+              <li><button>Gifting</button></li>
+            </ul>
+          </div>
+        </aside>
+
+        <div>
+          <div class="shop__toolbar">
+            <span id="count-display">Loading...</span>
+            <select class="shop__sort">
+              <option>Featured</option>
+              <option>Price: Low to High</option>
+              <option>Price: High to Low</option>
+              <option>Newest</option>
+            </select>
+          </div>
+          <div class="products" id="collection-grid"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section section--alt" style="padding-top:0">
+    <div class="container">
+      <div class="cta-banner reveal">
+        <h2 class="cta-banner__title">Can't find the perfect one?</h2>
+        <p class="cta-banner__sub">We make custom rakhis. Tell us your brother's name, his favorite color, and we'll craft something just for him.</p>
+        <a href="https://wa.me/91XXXXXXXXXX?text=Hi%20Vedya%20Rakhi%2C%20I%27d%20like%20a%20custom%20rakhi" class="btn" target="_blank" rel="noopener">Request Custom Order</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer (same) -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="footer__brand">
+          <a href="index.html" class="nav__logo" style="color:var(--ivory)"><span class="nav__logo-mark">V</span> Vedya Rakhi</a>
+          <p>Handmade in Pune by mother's hands.</p>
+        </div>
+        <div class="footer__col"><h4>Shop</h4><ul>
+          <li><a href="collection.html">All Rakhis</a></li>
+          <li><a href="collection.html">Premium</a></li>
+          <li><a href="collection.html">Pearl</a></li>
+        </ul></div>
+        <div class="footer__col"><h4>Brand</h4><ul>
+          <li><a href="about.html">Our Story</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul></div>
+        <div class="footer__col"><h4>Help</h4><ul>
+          <li><a href="contact.html">Shipping</a></li>
+          <li><a href="contact.html">Returns</a></li>
+        </ul></div>
+      </div>
+      <div class="footer__bottom">
+        <span>© 2026 Vedya Rakhi · Made with love in Pune</span>
+      </div>
+    </div>
+  </footer>
+
+  <a href="https://wa.me/91XXXXXXXXXX" class="wa-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448L.057 24z"/></svg>
+    <span class="wa-float__label">Chat with us</span>
+  </a>
+
+  <script src="assets/js/main.js"></script>
+  <script>
+    (async () => {
+      const r = await fetch('assets/manifest.json');
+      const m = await r.json();
+      const all = m.products;
+      const grid = document.getElementById('collection-grid');
+      const counts = { all: all.length, traditional: 0, pearl: 0, premium: 0, classic: 0 };
+      all.forEach(p => { counts[p.style] = (counts[p.style] || 0) + 1; });
+      Object.entries(counts).forEach(([k, v]) => {
+        const el = document.getElementById('cnt-' + k);
+        if (el) el.textContent = v;
+      });
+
+      const render = (items) => {
+        grid.innerHTML = items.map((p, i) => `
+          <article class="product" data-style="${p.style}" data-price="${p.price}">
+            <div class="product__media">
+              <div class="product__media-inner">
+                <img src="assets/images/products_web/${p.file_webp}" alt="${p.name}" loading="lazy">
+              </div>
+              <div class="product__badges">
+                <span class="badge badge--handmade">Handmade</span>
+              </div>
+              <div class="product__quickview">
+                <button class="product__quickview-btn" onclick="window.open('https://wa.me/91XXXXXXXXXX?text=${encodeURIComponent(`Hi Vedya Rakhi, I'm interested in the ${p.name} (₹${p.price})`)}', '_blank')">Order Now</button>
+              </div>
+            </div>
+            <div class="product__body">
+              <div class="product__style">${p.style}</div>
+              <h3 class="product__name">${p.name}</h3>
+              <div class="product__price">
+                <span class="product__price-now">₹${p.price}</span>
+                <span class="product__price-was">₹${Math.round(p.price * 1.4 / 10) * 10}</span>
+              </div>
+              <div class="product__cta">
+                <a href="https://wa.me/91XXXXXXXXXX?text=${encodeURIComponent(`Hi Vedya Rakhi, I'm interested in the ${p.name} (₹${p.price})`)}" class="btn btn--whatsapp" target="_blank" rel="noopener">WhatsApp</a>
+                <button class="btn btn--ghost" aria-label="Save">♥</button>
+              </div>
+            </div>
+          </article>
+        `).join('');
+        document.getElementById('count-display').textContent = `Showing ${items.length} of ${all.length} pieces`;
+      };
+
+      render(all);
+
+      // Filter handlers
+      document.querySelectorAll('.filter__btn[data-filter]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const f = btn.dataset.filter;
+          document.querySelectorAll('.filter__btn[data-filter]').forEach(b => b.classList.toggle('active', b === btn));
+          render(f === 'all' ? all : all.filter(p => p.style === f));
+        });
+      });
+
+      document.querySelectorAll('.filter__btn[data-price]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.filter__btn[data-price]').forEach(b => b.classList.toggle('active', b === btn));
+          const [lo, hi] = btn.dataset.price.split('-').map(Number);
+          render(all.filter(p => p.price >= lo && p.price < hi));
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

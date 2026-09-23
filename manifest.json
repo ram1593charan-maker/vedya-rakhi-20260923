@@ -1,0 +1,1326 @@
+{
+  "products": [
+    {
+      "file": "Aug_28__2026__07_27_11_PM.png",
+      "style": "premium",
+      "price": 1218,
+      "name": "Kohinoor",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.18720708787441254,
+        "g": 0.09257733076810837,
+        "b": 0.08835883438587189
+      },
+      "file_webp": "Aug_28__2026__07_27_11_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__07_27_18_PM.png",
+      "style": "pearl",
+      "price": 604,
+      "name": "Pearl Drop",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.9378669261932373,
+        "g": 0.9128143787384033,
+        "b": 0.8964664936065674
+      },
+      "file_webp": "Aug_28__2026__07_27_18_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_00_40_PM.png",
+      "style": "classic",
+      "price": 181,
+      "name": "Dhanteras",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.8409667015075684,
+        "g": 0.6913959980010986,
+        "b": 0.5779539346694946
+      },
+      "file_webp": "Aug_28__2026__08_00_40_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_17_24_PM.png",
+      "style": "classic",
+      "price": 153,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7880753874778748,
+        "g": 0.5923085808753967,
+        "b": 0.4469327926635742
+      },
+      "file_webp": "Aug_28__2026__08_17_24_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_20_01_PM.png",
+      "style": "classic",
+      "price": 193,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6924781203269958,
+        "g": 0.6016167998313904,
+        "b": 0.5076889395713806
+      },
+      "file_webp": "Aug_28__2026__08_20_01_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_44_51_PM.png",
+      "style": "classic",
+      "price": 237,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6082453727722168,
+        "g": 0.2915498912334442,
+        "b": 0.24858886003494263
+      },
+      "file_webp": "Aug_28__2026__08_44_51_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__09_03_49_PM.png",
+      "style": "classic",
+      "price": 198,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7667520046234131,
+        "g": 0.5980098247528076,
+        "b": 0.46573957800865173
+      },
+      "file_webp": "Aug_28__2026__09_03_49_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__09_15_17_PM.png",
+      "style": "classic",
+      "price": 271,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7153878808021545,
+        "g": 0.6142182946205139,
+        "b": 0.5115304589271545
+      },
+      "file_webp": "Aug_28__2026__09_15_17_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__09_24_02_PM.png",
+      "style": "premium",
+      "price": 1421,
+      "name": "Rajkumar",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.2896307110786438,
+        "g": 0.24113133549690247,
+        "b": 0.199032261967659
+      },
+      "file_webp": "Aug_28__2026__09_24_02_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__09_27_09_PM.png",
+      "style": "classic",
+      "price": 310,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6999031901359558,
+        "g": 0.5396131277084351,
+        "b": 0.42497923970222473
+      },
+      "file_webp": "Aug_28__2026__09_27_09_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__09_28_19_PM.png",
+      "style": "classic",
+      "price": 200,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7034308314323425,
+        "g": 0.5152540802955627,
+        "b": 0.3867776095867157
+      },
+      "file_webp": "Aug_28__2026__09_28_19_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__09_34_51_PM.png",
+      "style": "evil-eye",
+      "price": 367,
+      "name": "Nazar Suraksha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6398215293884277,
+        "g": 0.5416117906570435,
+        "b": 0.6918643116950989
+      },
+      "file_webp": "Aug_28__2026__09_34_51_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__09_48_37_PM.png",
+      "style": "premium",
+      "price": 654,
+      "name": "Heritage",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.7704651951789856,
+        "g": 0.6021577715873718,
+        "b": 0.7149697542190552
+      },
+      "file_webp": "Aug_28__2026__09_48_37_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__01_51_34_PM.png",
+      "style": "premium",
+      "price": 645,
+      "name": "Zarina",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.36699768900871277,
+        "g": 0.10008590668439865,
+        "b": 0.07993414252996445
+      },
+      "file_webp": "Aug_31__2026__01_51_34_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__01_53_38_PM.png",
+      "style": "traditional",
+      "price": 283,
+      "name": "Om Shanti",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5475610494613647,
+        "g": 0.4331459105014801,
+        "b": 0.2931618094444275
+      },
+      "file_webp": "Aug_31__2026__01_53_38_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__01_55_52_PM.png",
+      "style": "traditional",
+      "price": 369,
+      "name": "Mauli Threads",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.585777759552002,
+        "g": 0.44002553820610046,
+        "b": 0.30453047156333923
+      },
+      "file_webp": "Aug_31__2026__01_55_52_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__01_58_24_PM.png",
+      "style": "premium",
+      "price": 569,
+      "name": "Heritage",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.14347894489765167,
+        "g": 0.2748901844024658,
+        "b": 0.2993564009666443
+      },
+      "file_webp": "Aug_31__2026__01_58_24_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_03_40_PM.png",
+      "style": "traditional",
+      "price": 174,
+      "name": "Tilak Bandha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5070744156837463,
+        "g": 0.37608885765075684,
+        "b": 0.2849096953868866
+      },
+      "file_webp": "Aug_31__2026__02_03_40_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_05_28_PM.png",
+      "style": "classic",
+      "price": 150,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.4082247316837311,
+        "g": 0.28309765458106995,
+        "b": 0.20323283970355988
+      },
+      "file_webp": "Aug_31__2026__02_05_28_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_12_28_PM.png",
+      "style": "classic",
+      "price": 292,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7471488118171692,
+        "g": 0.5646524429321289,
+        "b": 0.4497034251689911
+      },
+      "file_webp": "Aug_31__2026__02_12_28_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_16_22_PM.png",
+      "style": "traditional",
+      "price": 200,
+      "name": "Tilak Bandha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.4782196581363678,
+        "g": 0.3815814256668091,
+        "b": 0.31176063418388367
+      },
+      "file_webp": "Aug_31__2026__02_16_22_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_16_25_PM.png",
+      "style": "classic",
+      "price": 264,
+      "name": "Dhanteras",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.792870044708252,
+        "g": 0.6638959646224976,
+        "b": 0.5480002760887146
+      },
+      "file_webp": "Aug_31__2026__02_16_25_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_25_51_PM.png",
+      "style": "classic",
+      "price": 240,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6336538791656494,
+        "g": 0.48903554677963257,
+        "b": 0.3844844698905945
+      },
+      "file_webp": "Aug_31__2026__02_25_51_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_28_19_PM.png",
+      "style": "classic",
+      "price": 318,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6629520058631897,
+        "g": 0.6103830337524414,
+        "b": 0.5597138404846191
+      },
+      "file_webp": "Aug_31__2026__02_28_19_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_29_52_PM.png",
+      "style": "traditional",
+      "price": 260,
+      "name": "Roli Moli",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6330578923225403,
+        "g": 0.4471345543861389,
+        "b": 0.33960187435150146
+      },
+      "file_webp": "Aug_31__2026__02_29_52_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_33_34_PM.png",
+      "style": "classic",
+      "price": 180,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5782368183135986,
+        "g": 0.5125789046287537,
+        "b": 0.4722203016281128
+      },
+      "file_webp": "Aug_31__2026__02_33_34_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_34_59_PM.png",
+      "style": "classic",
+      "price": 239,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5891611576080322,
+        "g": 0.5250126719474792,
+        "b": 0.47511667013168335
+      },
+      "file_webp": "Aug_31__2026__02_34_59_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_35_48_PM.png",
+      "style": "evil-eye",
+      "price": 254,
+      "name": "Nazar Raksha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.3127094507217407,
+        "g": 0.34760627150535583,
+        "b": 0.3693206310272217
+      },
+      "file_webp": "Aug_31__2026__02_35_48_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_40_08_PM.png",
+      "style": "traditional",
+      "price": 235,
+      "name": "Swastik Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6120039820671082,
+        "g": 0.467231422662735,
+        "b": 0.3083283007144928
+      },
+      "file_webp": "Aug_31__2026__02_40_08_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_41_28_PM.png",
+      "style": "classic",
+      "price": 302,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.29447537660598755,
+        "g": 0.26176536083221436,
+        "b": 0.194320410490036
+      },
+      "file_webp": "Aug_31__2026__02_41_28_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_42_42_PM.png",
+      "style": "premium",
+      "price": 554,
+      "name": "Heritage",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.2607642114162445,
+        "g": 0.21048110723495483,
+        "b": 0.12287688255310059
+      },
+      "file_webp": "Aug_31__2026__02_42_42_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_44_38_PM.png",
+      "style": "traditional",
+      "price": 218,
+      "name": "Mauli Threads",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5059264302253723,
+        "g": 0.41421353816986084,
+        "b": 0.2846907079219818
+      },
+      "file_webp": "Aug_31__2026__02_44_38_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_46_25_PM.png",
+      "style": "classic",
+      "price": 295,
+      "name": "Dhanteras",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.41603171825408936,
+        "g": 0.39471235871315,
+        "b": 0.3757966160774231
+      },
+      "file_webp": "Aug_31__2026__02_46_25_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_55_02_PM.png",
+      "style": "classic",
+      "price": 198,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6552841067314148,
+        "g": 0.5148042440414429,
+        "b": 0.4693237543106079
+      },
+      "file_webp": "Aug_31__2026__02_55_02_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_58_04_PM.png",
+      "style": "premium",
+      "price": 1029,
+      "name": "Suvarna Threads",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.25413453578948975,
+        "g": 0.13365823030471802,
+        "b": 0.08500372618436813
+      },
+      "file_webp": "Aug_31__2026__02_58_04_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__02_58_05_PM.png",
+      "style": "premium",
+      "price": 1175,
+      "name": "Zarina",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.25413453578948975,
+        "g": 0.13365823030471802,
+        "b": 0.08500372618436813
+      },
+      "file_webp": "Aug_31__2026__02_58_05_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_00_10_PM.png",
+      "style": "classic",
+      "price": 256,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5034056901931763,
+        "g": 0.30918756127357483,
+        "b": 0.1817658543586731
+      },
+      "file_webp": "Aug_31__2026__03_00_10_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_05_19_PM.png",
+      "style": "classic",
+      "price": 276,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.4274277687072754,
+        "g": 0.23965246975421906,
+        "b": 0.13534434139728546
+      },
+      "file_webp": "Aug_31__2026__03_05_19_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_08_40_PM.png",
+      "style": "classic",
+      "price": 150,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7062197327613831,
+        "g": 0.49704185128211975,
+        "b": 0.3679922819137573
+      },
+      "file_webp": "Aug_31__2026__03_08_40_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_19_24_PM.png",
+      "style": "classic",
+      "price": 208,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7591648101806641,
+        "g": 0.6327716708183289,
+        "b": 0.5180288553237915
+      },
+      "file_webp": "Aug_31__2026__03_19_24_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_20_50_PM.png",
+      "style": "classic",
+      "price": 308,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.39027106761932373,
+        "g": 0.31321001052856445,
+        "b": 0.2542896270751953
+      },
+      "file_webp": "Aug_31__2026__03_20_50_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_22_26_PM.png",
+      "style": "classic",
+      "price": 263,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7857265472412109,
+        "g": 0.539794921875,
+        "b": 0.5049184560775757
+      },
+      "file_webp": "Aug_31__2026__03_22_26_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_24_06_PM.png",
+      "style": "classic",
+      "price": 279,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7444772124290466,
+        "g": 0.5992897152900696,
+        "b": 0.6403870582580566
+      },
+      "file_webp": "Aug_31__2026__03_24_06_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_25_36_PM.png",
+      "style": "classic",
+      "price": 269,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7463224530220032,
+        "g": 0.6377952694892883,
+        "b": 0.5234414339065552
+      },
+      "file_webp": "Aug_31__2026__03_25_36_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_28_15_PM.png",
+      "style": "classic",
+      "price": 227,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.600703239440918,
+        "g": 0.48555517196655273,
+        "b": 0.4721272885799408
+      },
+      "file_webp": "Aug_31__2026__03_28_15_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_30_04_PM.png",
+      "style": "classic",
+      "price": 213,
+      "name": "Dhanteras",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7130485773086548,
+        "g": 0.5876872539520264,
+        "b": 0.48350968956947327
+      },
+      "file_webp": "Aug_31__2026__03_30_04_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_31_45_PM.png",
+      "style": "classic",
+      "price": 332,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5485451221466064,
+        "g": 0.5111493468284607,
+        "b": 0.4315166771411896
+      },
+      "file_webp": "Aug_31__2026__03_31_45_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_31_45_PM_1_.png",
+      "style": "classic",
+      "price": 321,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5485451221466064,
+        "g": 0.5111493468284607,
+        "b": 0.4315166771411896
+      },
+      "file_webp": "Aug_31__2026__03_31_45_PM_1_.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_33_13_PM.png",
+      "style": "classic",
+      "price": 309,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.41228076815605164,
+        "g": 0.38583457469940186,
+        "b": 0.2643500864505768
+      },
+      "file_webp": "Aug_31__2026__03_33_13_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_35_45_PM.png",
+      "style": "traditional",
+      "price": 192,
+      "name": "Mauli Threads",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.46996626257896423,
+        "g": 0.3890867531299591,
+        "b": 0.29919159412384033
+      },
+      "file_webp": "Aug_31__2026__03_35_45_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_39_56_PM.png",
+      "style": "classic",
+      "price": 287,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7572824358940125,
+        "g": 0.6253880858421326,
+        "b": 0.48584848642349243
+      },
+      "file_webp": "Aug_31__2026__03_39_56_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_55_52_PM.png",
+      "style": "classic",
+      "price": 327,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7362834811210632,
+        "g": 0.5756375789642334,
+        "b": 0.4115661084651947
+      },
+      "file_webp": "Aug_31__2026__03_55_52_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_58_11_PM__1_.png",
+      "style": "classic",
+      "price": 241,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7925732135772705,
+        "g": 0.605276882648468,
+        "b": 0.4468979835510254
+      },
+      "file_webp": "Aug_31__2026__03_58_11_PM__1_.webp"
+    },
+    {
+      "file": "Aug_31__2026__04_00_17_PM.png",
+      "style": "traditional",
+      "price": 357,
+      "name": "Tilak Bandha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6272710561752319,
+        "g": 0.45794036984443665,
+        "b": 0.3228698968887329
+      },
+      "file_webp": "Aug_31__2026__04_00_17_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__04_05_50_PM.png",
+      "style": "traditional",
+      "price": 390,
+      "name": "Tilak Bandha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6298754215240479,
+        "g": 0.462265282869339,
+        "b": 0.28933680057525635
+      },
+      "file_webp": "Aug_31__2026__04_05_50_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__04_07_27_PM.png",
+      "style": "traditional",
+      "price": 261,
+      "name": "Swastik Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7919371128082275,
+        "g": 0.576347291469574,
+        "b": 0.2729377746582031
+      },
+      "file_webp": "Aug_31__2026__04_07_27_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__04_09_34_PM.png",
+      "style": "traditional",
+      "price": 328,
+      "name": "Vedic Knot",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6393843293190002,
+        "g": 0.45743289589881897,
+        "b": 0.2992726266384125
+      },
+      "file_webp": "Aug_31__2026__04_09_34_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__04_13_26_PM.png",
+      "style": "classic",
+      "price": 338,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6603319644927979,
+        "g": 0.5194411873817444,
+        "b": 0.36094385385513306
+      },
+      "file_webp": "Aug_31__2026__04_13_26_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__04_15_30_PM.png",
+      "style": "traditional",
+      "price": 298,
+      "name": "Om Shanti",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7147805690765381,
+        "g": 0.5496803522109985,
+        "b": 0.34943339228630066
+      },
+      "file_webp": "Aug_31__2026__04_15_30_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__08_19_37_PM.png",
+      "style": "classic",
+      "price": 280,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.38972604274749756,
+        "g": 0.3670593798160553,
+        "b": 0.3604220151901245
+      },
+      "file_webp": "Aug_31__2026__08_19_37_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_19_34_PM.png",
+      "style": "traditional",
+      "price": 332,
+      "name": "Om Shanti",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6347169280052185,
+        "g": 0.48791223764419556,
+        "b": 0.3123868405818939
+      },
+      "file_webp": "Sep_1__2026__04_19_34_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_20_37_PM.png",
+      "style": "premium",
+      "price": 1360,
+      "name": "Raja Rani Set",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.26952314376831055,
+        "g": 0.2591923475265503,
+        "b": 0.1704147756099701
+      },
+      "file_webp": "Sep_1__2026__04_20_37_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_21_54_PM.png",
+      "style": "traditional",
+      "price": 183,
+      "name": "Vedic Knot",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5810549259185791,
+        "g": 0.4336370825767517,
+        "b": 0.29519152641296387
+      },
+      "file_webp": "Sep_1__2026__04_21_54_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_21_57_PM.png",
+      "style": "traditional",
+      "price": 170,
+      "name": "Vedic Knot",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5810549259185791,
+        "g": 0.4336370825767517,
+        "b": 0.29519152641296387
+      },
+      "file_webp": "Sep_1__2026__04_21_57_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_22_43_PM.png",
+      "style": "classic",
+      "price": 229,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.43753063678741455,
+        "g": 0.3268164396286011,
+        "b": 0.21573087573051453
+      },
+      "file_webp": "Sep_1__2026__04_22_43_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_24_11_PM.png",
+      "style": "premium",
+      "price": 931,
+      "name": "Raja Rani Set",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.2169094830751419,
+        "g": 0.1906590610742569,
+        "b": 0.14113932847976685
+      },
+      "file_webp": "Sep_1__2026__04_24_11_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_25_25_PM.png",
+      "style": "premium",
+      "price": 861,
+      "name": "Zarina",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.20187902450561523,
+        "g": 0.2000647634267807,
+        "b": 0.16994114220142365
+      },
+      "file_webp": "Sep_1__2026__04_25_25_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_27_42_PM.png",
+      "style": "classic",
+      "price": 181,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.735490083694458,
+        "g": 0.602598249912262,
+        "b": 0.45816361904144287
+      },
+      "file_webp": "Sep_1__2026__04_27_42_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_30_10_PM.png",
+      "style": "premium",
+      "price": 584,
+      "name": "Raja Rani Set",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.16140224039554596,
+        "g": 0.12034765630960464,
+        "b": 0.08868099749088287
+      },
+      "file_webp": "Sep_1__2026__04_30_10_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_32_08_PM.png",
+      "style": "premium",
+      "price": 625,
+      "name": "Raja Rani Set",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.16186824440956116,
+        "g": 0.15722870826721191,
+        "b": 0.14324228465557098
+      },
+      "file_webp": "Sep_1__2026__04_32_08_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_33_36_PM.png",
+      "style": "classic",
+      "price": 167,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.3886317014694214,
+        "g": 0.26308876276016235,
+        "b": 0.19254393875598907
+      },
+      "file_webp": "Sep_1__2026__04_33_36_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_35_00_PM.png",
+      "style": "premium",
+      "price": 780,
+      "name": "Kohinoor",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.11959642916917801,
+        "g": 0.08377375453710556,
+        "b": 0.07926365733146667
+      },
+      "file_webp": "Sep_1__2026__04_35_00_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_36_21_PM.png",
+      "style": "classic",
+      "price": 231,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.46691909432411194,
+        "g": 0.3403639793395996,
+        "b": 0.16776050627231598
+      },
+      "file_webp": "Sep_1__2026__04_36_21_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_45_58_PM__1_.png",
+      "style": "traditional",
+      "price": 342,
+      "name": "Roli Moli",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5113362073898315,
+        "g": 0.40550294518470764,
+        "b": 0.32346946001052856
+      },
+      "file_webp": "Sep_1__2026__04_45_58_PM__1_.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_45_59_PM__2_.png",
+      "style": "classic",
+      "price": 168,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7663130164146423,
+        "g": 0.6330877542495728,
+        "b": 0.5346747636795044
+      },
+      "file_webp": "Sep_1__2026__04_45_59_PM__2_.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_47_40_PM.png",
+      "style": "classic",
+      "price": 175,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.4193785488605499,
+        "g": 0.30274951457977295,
+        "b": 0.22557181119918823
+      },
+      "file_webp": "Sep_1__2026__04_47_40_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_49_08_PM.png",
+      "style": "traditional",
+      "price": 369,
+      "name": "Mauli Threads",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6408210396766663,
+        "g": 0.4567219018936157,
+        "b": 0.3256359398365021
+      },
+      "file_webp": "Sep_1__2026__04_49_08_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_50_39_PM.png",
+      "style": "traditional",
+      "price": 352,
+      "name": "Om Shanti",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5468761920928955,
+        "g": 0.4076753854751587,
+        "b": 0.2821946144104004
+      },
+      "file_webp": "Sep_1__2026__04_50_39_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_51_37_PM.png",
+      "style": "classic",
+      "price": 159,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7072339653968811,
+        "g": 0.5218053460121155,
+        "b": 0.40347349643707275
+      },
+      "file_webp": "Sep_1__2026__04_51_37_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_53_15_PM.png",
+      "style": "classic",
+      "price": 155,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6063574552536011,
+        "g": 0.5054129958152771,
+        "b": 0.391134113073349
+      },
+      "file_webp": "Sep_1__2026__04_53_15_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_55_03_PM.png",
+      "style": "classic",
+      "price": 193,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.683958113193512,
+        "g": 0.5585831999778748,
+        "b": 0.4590117633342743
+      },
+      "file_webp": "Sep_1__2026__04_55_03_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_56_14_PM.png",
+      "style": "traditional",
+      "price": 227,
+      "name": "Roli Moli",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6263818740844727,
+        "g": 0.4391719698905945,
+        "b": 0.3143521547317505
+      },
+      "file_webp": "Sep_1__2026__04_56_14_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__04_57_30_PM.png",
+      "style": "classic",
+      "price": 196,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7219552397727966,
+        "g": 0.5568546056747437,
+        "b": 0.42995867133140564
+      },
+      "file_webp": "Sep_1__2026__04_57_30_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_00_47_PM.png",
+      "style": "classic",
+      "price": 183,
+      "name": "Rishta Bandhan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6413562297821045,
+        "g": 0.4736161231994629,
+        "b": 0.47609350085258484
+      },
+      "file_webp": "Sep_1__2026__05_00_47_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_05_49_PM.png",
+      "style": "pearl",
+      "price": 315,
+      "name": "Pearl Drop",
+      "occasion": "bhai-dooj",
+      "colors": {
+        "r": 0.7656071186065674,
+        "g": 0.7362291216850281,
+        "b": 0.7106242775917053
+      },
+      "file_webp": "Sep_1__2026__05_05_49_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_07_07_PM.png",
+      "style": "classic",
+      "price": 186,
+      "name": "Aastha",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7610704898834229,
+        "g": 0.651872992515564,
+        "b": 0.565105676651001
+      },
+      "file_webp": "Sep_1__2026__05_07_07_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_09_51_PM.png",
+      "style": "traditional",
+      "price": 383,
+      "name": "Mauli Threads",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.5299255847930908,
+        "g": 0.3951588273048401,
+        "b": 0.30471423268318176
+      },
+      "file_webp": "Sep_1__2026__05_09_51_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_19_15_PM.png",
+      "style": "classic",
+      "price": 175,
+      "name": "Dhanteras",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.30138713121414185,
+        "g": 0.2646719217300415,
+        "b": 0.2437814325094223
+      },
+      "file_webp": "Sep_1__2026__05_19_15_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_20_37_PM.png",
+      "style": "classic",
+      "price": 212,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.686623752117157,
+        "g": 0.5327553749084473,
+        "b": 0.4333362579345703
+      },
+      "file_webp": "Sep_1__2026__05_20_37_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_22_36_PM__1_.png",
+      "style": "classic",
+      "price": 291,
+      "name": "Bhaiya Pyaar",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.42330852150917053,
+        "g": 0.2623872756958008,
+        "b": 0.2038404941558838
+      },
+      "file_webp": "Sep_1__2026__05_22_36_PM__1_.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_22_37_PM__2_.png",
+      "style": "classic",
+      "price": 329,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.636277437210083,
+        "g": 0.4966060221195221,
+        "b": 0.3971313238143921
+      },
+      "file_webp": "Sep_1__2026__05_22_37_PM__2_.webp"
+    },
+    {
+      "file": "Sep_1__2026__05_25_15_PM.png",
+      "style": "classic",
+      "price": 255,
+      "name": "Mehman",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.7134465575218201,
+        "g": 0.5942777395248413,
+        "b": 0.5060203075408936
+      },
+      "file_webp": "Sep_1__2026__05_25_15_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__06_45_07_PM.png",
+      "style": "classic",
+      "price": 321,
+      "name": "Dhanteras",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.6898643970489502,
+        "g": 0.5425453782081604,
+        "b": 0.4282063841819763
+      },
+      "file_webp": "Sep_1__2026__06_45_07_PM.webp"
+    },
+    {
+      "file": "Sep_1__2026__06_47_12_PM.png",
+      "style": "classic",
+      "price": 253,
+      "name": "Suhagan",
+      "occasion": "diwali",
+      "colors": {
+        "r": 0.566612958908081,
+        "g": 0.38842836022377014,
+        "b": 0.39555227756500244
+      },
+      "file_webp": "Sep_1__2026__06_47_12_PM.webp"
+    }
+  ],
+  "banners": [
+    {
+      "file": "Aug_28__2026__07_28_49_PM.png",
+      "w": 1672,
+      "h": 941,
+      "ratio": 1.78,
+      "file_webp": "Aug_28__2026__07_28_49_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__07_32_00_PM.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__07_32_00_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__07_36_49_PM.png",
+      "w": 1537,
+      "h": 1023,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__07_36_49_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_25_26_PM.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__08_25_26_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_26_30_PM.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__08_26_30_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_27_23_PM.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__08_27_23_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_33_57_PM.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__08_33_57_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_34_05_PM.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__08_34_05_PM.webp"
+    },
+    {
+      "file": "Aug_28__2026__08_36_31_PM.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_28__2026__08_36_31_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_02_08_PM.png",
+      "w": 1672,
+      "h": 941,
+      "ratio": 1.78,
+      "file_webp": "Aug_31__2026__03_02_08_PM.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_17_32_PM__1_.png",
+      "w": 1536,
+      "h": 1024,
+      "ratio": 1.5,
+      "file_webp": "Aug_31__2026__03_17_32_PM__1_.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_17_33_PM__2_.png",
+      "w": 1672,
+      "h": 941,
+      "ratio": 1.78,
+      "file_webp": "Aug_31__2026__03_17_33_PM__2_.webp"
+    },
+    {
+      "file": "Aug_31__2026__03_58_12_PM__2_.png",
+      "w": 1537,
+      "h": 1023,
+      "ratio": 1.5,
+      "file_webp": "Aug_31__2026__03_58_12_PM__2_.webp"
+    },
+    {
+      "file": "Sep_2__2026__03_11_42_PM.png",
+      "w": 1774,
+      "h": 887,
+      "ratio": 2.0,
+      "file_webp": "Sep_2__2026__03_11_42_PM.webp"
+    }
+  ]
+}
